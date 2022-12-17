@@ -1,0 +1,1 @@
+--Crea trigger en Production.ProductCategory--
